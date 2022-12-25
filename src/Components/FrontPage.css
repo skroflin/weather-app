@@ -1,0 +1,41 @@
+.ui.header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+    margin-bottom: 50px;
+    font-size: 2rem;
+}
+
+.ui.header .content{
+    margin-top: 50px;
+    font-size: 4rem;
+}
+
+.search-bar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.ui.container{
+    width: 50%;
+    margin-right: 25%;
+}
+
+.ui.cards{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.selected-card{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.ui.button{
+    border-radius: 20px;
+}
